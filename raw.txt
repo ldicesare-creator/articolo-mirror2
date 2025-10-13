@@ -1,0 +1,154 @@
+ In questo articolo parlo di:
+* come molte aziende stanno adottando l’AI in modo disordinato
+* perché l’AI, senza visione e cultura, diventa solo un’altra interfaccia
+* due fra i rischi più sottovalutati: workslop e cognitive dilution
+* quali ruoli servono per governare l’adozione dell’AI
+* e di un caso semplice, le fatture elettroniche, per capire come iniziare davvero
+
+
+AI senza strategia: perché fornire account enterprise non basta
+
+Dopo il mio primo articolo sulla GEO, ho ricevuto molti messaggi e telefonate. Manager, recruiter, consulenti. Tutti curiosi, molti entusiasti, alcuni anche un po’ confusi. E quasi tutti, a un certo punto della conversazione, dicevano la stessa cosa:
+“Abbiamo attivato ChatGPT Enterprise per tutti. O Copilot. O Gemini. E ora stiamo capendo come usarlo.”
+
+È il nuovo mantra dell’adozione aziendale dell’AI: creare account enterprise, distribuirli, e sperare che accada qualcosa di intelligente.
+
+Ma non accade.
+O almeno, non come dovrebbe.
+
+Chiariamo un punto fondamentale: l’AI non è una piattaforma, è un sistema socio-tecnico. Senza una direzione strategica, visione, governance e obiettivi condivisi, diventa solo un’altra interfaccia.
+
+Ho completato da qualche settimana il corso Artificial Intelligence: Implications for Business Strategy organizzato da MIT – SLOAN School of Management e voglio condividere con voi alcune riflessioni che spero troverete interessanti.
+
+Il paradosso dell’adozione top-down
+
+Negli ultimi mesi ho visto un pattern sempre più evidente: aziende che spingono l’AI dall’alto, ma in modo caotico: licenze acquistate in blocco, ma nessun piano d’integrazione, zero formazione.
+L’obiettivo implicito è “non restare indietro”. Ma nella corsa a sembrare moderni, molti si sono dimenticati di chiedersi perché.
+Come ricorda il professor David Autor del MIT, “la misura di una tecnologia non è quanto è veloce o economica, ma quanto è trasformativa.”
+L’AI non serve a fare più in fretta ciò che già facevamo, ma a renderci capaci di fare ciò che prima era impossibile.
+
+Mi sembra infatti che troppo spesso si confonda adozione tecnologica con trasformazione organizzativa, due concetti che non potrebbero essere più diversi.
+
+Come ha scritto Thomas Malone del MIT Sloan, “Most organizations today are far less intelligent than they could be.”
+
+E purtroppo non basta aggiungere un layer di AI per diventarlo. Bisogna costruire una Collective Intelligence fatta di persone, dati, processi e macchine che ragionano insieme.
+È esattamente ciò che i ricercatori MIT Isabella Loaiza e Roberto Rigobon definiscono “EPOCH capabilities”: Empatia, Presenza, Giudizio, Creatività e Speranza.
+Sono le doti che l’AI non replica e che, se coltivate, diventano il vero vantaggio competitivo in una trasformazione intelligente.
+Senza questo, l’AI rischia di diventare solo un amplificatore di disorganizzazione.
+Vorrei rimarcare questo punto: la collaborazione organizzata tra umano e macchina può portare vantaggi enormi alle aziende e alle persone che la implementeranno con consapevolezza all’interno di una chiara strategia che metta al centro i reali business needs aziendali e le esigenze di crescita e upskilling delle persone.
+
+Due rischi sottovalutati
+Cosa rischia di provocare un’adozione non organizzata, o peggio, caotica, dell’AI in azienda? Cosa succede se mancano policy, responsabilità e controllo? Ecco due esempi che sono certo suoneranno familiari a tutti:
+
+1. Workslop
+L’Harvard Business Review lo ha definito in modo impeccabile: Workslop è ciò che accade quando la tecnologia, invece di semplificare, genera nuovo lavoro.
+È un fenomeno diffusissimo nelle aziende che adottano AI senza governance, è quello che accade quando riceviamo una mail, un report, una ppt da un collega e, leggendola, avvertiamo la spiacevole sensazione che qualcosa non vada. Allora approfondiamo, verifichiamo i dati e le fonti, e scopriamo che sotto una forma impeccabile e presentata benissimo ci sono errori, dati errati, esempi sbagliati. E ci tocca rifare il lavoro o rispedirlo al mittente.
+
+Quindi da un lato qualcuno fa qualcosa molto più velocemente, dall’altro qualcun altro impiega molto più tempo di prima a verificare e correggere.
+
+Il risultato? Più caos.
+
+L’AI doveva liberarci tempo. In molti casi, ce lo sta semplicemente restituendo in forma di confusione strutturata.
+
+2. Cognitive Dilution
+
+Il secondo rischio è più sottile, ma potenzialmente più serio: lavorare con AI genera efficienza immediata, ma riduce memoria e consapevolezza.
+Progetti, email, presentazioni: tutto si fa più in fretta, ma resta meno impresso.
+
+Quando deleghiamo troppo, non impariamo più. E quando non impariamo, smettiamo di crescere, come persone ma anche come organizzazioni.
+Se però metti in piedi loop di apprendimento, succede anche il contrario del ‘diluire’: si alza la media.
+Uno studio citato da Autor, condotto da due ricercatori del MIT (Shakked Noy e Whitney Zhang), ha mostrato che ChatGPT non solo velocizza il lavoro, ma “rende i meno esperti più simili ai più esperti.” È un esempio di come l’AI, se usata con consapevolezza, possa colmare i divari di competenza invece di allargarli. 
+
+Per farlo però serve un sistema di feedback e apprendimento continuo, altrimenti la produttività cresce, ma la conoscenza si assottiglia.
+Antidoti pratici (3 mosse):
+1. Twopass review: 1° passaggio generativo, 2° passaggio di riscrittura a mano (sintesi in 5 bullet).
+2. AI log: ogni output deve avere prompt finale + fonte + tre scelte di editing umano.
+3.  Teachback: chi consegna espone in 90? cosa ha imparato (non solo cosa ha prodotto).
+Così il sistema umano–AI funziona pensa, percepisce, agisce e impara davvero, perché se uno dei due smette di imparare, l’equilibrio si rompe e rischiamo di creare aziende che producono di più ma assorbono di meno
+Organizzazioni iperattive e ipocognitive.
+
+Il vuoto di governance
+
+La soluzione non è solo tecnica. È manageriale.
+
+Parlando con alcune società di recruitment, ho sentito spesso una frase che descrive bene il momento: “Praticamente nessuna azienda sta cercando figure dedicate alla gestione dell’AI. Solo le società di consulenza.”
+
+Il risultato? Un vuoto di governance. Nessun AI Owner, nessun Chief AI Officer, nessun comitato trasversale che guidi l’adozione.
+Si lavora “per tool”, non “per obiettivo”. Ogni dipartimento fa da sé, con i rischi che conosciamo: sovrapposizioni, output incoerenti, errori di sicurezza, e scarsa accountability.
+
+Uno dei concetti chiavi del Corso MIT è stato “Collections of people and computers will be smarter than either alone.” Ma, aggiungo, solo se qualcuno orchestra la collaborazione, perché senza regole, ogni prompt diventa una politica aziendale non dichiarata.
+
+Io sono convinto che ogni azienda dovrebbe dotarsi oggi stesso di una cabina di regia per definire, implementare e governare la corretta implementazione dell’AI in azienda, un gruppo di persone ai massimi livelli aziendali che rappresentino l’importanza del momento; qualcosa di questo genere:
+o CEO ? obiettivi & budget
+o Head of AI ? roadmap & qualità
+o CTO ? sicurezza, integrazioni
+o Head of HR ? upskilling, policy
+o Head of Legal ? rischi, audit, privacy
+
+Infatti, un rischio ulteriore, evidenziato dalla professoressa Kate Kellogg del MIT Sloan, è quello di delegare l’adozione dell’AI ai profili più giovani solo perché “nativi digitali”.
+Secondo la ricerca MIT, senza una guida senior che comprenda la logica dei sistemi e il loro impatto organizzativo, l’AI viene gestita con tattiche da “novizi”: entusiasmo tanto, strategia poca.
+Quindi l’endorsment dei massimi livelli aziendali diventa ancora più importante e necessario.
+
+Da caos a metodo: un framework in 5 passi
+
+Per uscire da questa fase di adozione caotica serve metodo, un framework chiaro, progressivo, adattabile.
+Quello che propongo qui è una sintesi operativa derivata dal corso MIT Sloan, semplificata per contesti reali, anche non tech.
+
+1. Purpose – Definire il perché
+Perché l’azienda vuole adottare l’AI?
+Per ridurre costi? Migliorare servizio? Liberare tempo? Innovare modelli?
+Senza un “why” condiviso, ogni licenza è un investimento cieco.
+
+2. People – Coinvolgere e formare
+L’AI non è (solo) per l’IT.
+Serve alfabetizzazione diffusa, serve fiducia, servono AI Champions interni, figure ponte tra tecnologia e business che sappiano tradurre bisogni, limiti e opportunità.
+Come ricorda Nick van der Meulen (MIT CISR), le competenze sono dinamiche: ciò che ti rende efficace oggi non basterà tra cinque anni.
+L’AI richiede un sistema di formazione continua e percorsi orizzontali, più una “lattice” che una “ladder”, dove le persone imparano, si spostano, sperimentano e insegnano. In pratica: non serve una scala da scalare, serve un reticolo dove muoversi, crescere e contaminarsi.
+
+
+3. Process – Scegliere i flussi giusti dai quali partire
+Non partire dal tool, ma dal processo.
+Identificare le attività ripetitive, manuali, o a basso valore dove l’AI può portare impatto immediato.
+Inquadrare però l’adozione dell’AI in una road map di lungo respiro assicurandosi che sia allineata con i business needs reali: l’innovazione ha senso se calata in una strategia coerente con la mission aziendale.
+
+4. Platform – Costruire su basi solide
+Infrastrutture interoperabili, API-first, sicurezza by design, ma soprattutto, tanto DATA Management.
+L’AI non deve essere un add-on, ma un layer connettivo tra i sistemi aziendali.
+Solo così si trasforma in un moltiplicatore, non in un nuovo silo.
+
+5. Policy – Governare e misurare
+Definire regole su etica, privacy, misurazione e miglioramento continuo.
+Stabilire chi può fare cosa con l’AI, e come vengono valutati gli impatti.
+Ricordarsi che la governance non è burocrazia: è libertà con confini.
+
+Dal metodo alla pratica: un esempio operativo
+Per capire come questo framework può essere applicato nella realtà, partiamo da un caso semplice ma concreto: la gestione delle fatture elettroniche.
+È un processo amministrativo ripetitivo, regolato e ben documentato, quindi perfetto per essere automatizzato in modo intelligente.
+Oggi, in molte aziende, l’instradamento e la validazione delle fatture richiedono ancora decine di ore uomo a settimana. Ogni documento deve essere classificato (fornitore, tipologia di spesa, centro di costo, urgenza), controllato e inviato alla persona giusta per l’approvazione. È un lavoro ad alto tasso di errore e a basso valore strategico.
+Con un approccio AI-driven, invece, si può implementare un sistema di machine learning supervisionato che impara dai dati storici, per esempio migliaia di fatture elettroniche in formato XML standard, già etichettate per centro di costo e percorso di approvazione, e automatizza l’intero flusso: lettura, classificazione, routing e validazione.
+Applicando il framework:
+* Purpose: ridurre tempi e errori nel back-office, liberando risorse per attività a più alto valore.
+* People: coinvolgere l’amministrazione e IT fin dall’inizio, con qualcuno che invece di controllare le fatture diventi un “AI Champion” interno e che supervisioni la qualità dei dati.
+* Process: partire dal sotto-processo più standard (fatture di servizi ricorrenti) e solo dopo estendere ad altri casi.
+* Platform: integrare il modello ML con l’ERP e con un sistema di Robotic Process Automation per l’esecuzione.
+* Policy: definire chi può validare eccezioni, come vengono gestiti gli errori e come misurare la precisione del modello.
+I risultati, nei casi in cui è stato applicato, parlano da soli:
+* –60% del tempo medio di elaborazione,
+* –40% di errori di classificazione,
+* e un miglioramento netto nella tracciabilità e nella compliance.
+È un piccolo esempio, ma illustra perfettamente il punto: non serve partire da un moonshot.
+Basta un processo chiaro, dati puliti e una strategia di adozione misurabile.
+
+Conclusione: L’AI non è un upgrade, è un progetto organizzativo
+
+L’adozione dell’AI non è un progetto IT.
+È un progetto organizzativo.
+
+Distribuire account enterprise non significa essere pronti, significa solo aver pagato la quota d’ingresso.
+
+Il vero lavoro inizia dopo: costruire processi, ruoli e metriche che rendano l’AI parte della cultura, non solo dell’infrastruttura.
+
+Le organizzazioni più intelligenti del prossimo decennio non saranno quelle che avranno più modelli, ma quelle che avranno più metodo. Perché, e lo dico con la convinzione maturata in questi anni di esperienza e studio, l’AI non riuscirà da sola a rendere intelligenti le aziende che non lo sono già.
+Ma può accelerare enormemente quelle che imparano ad esserlo.
+
+
