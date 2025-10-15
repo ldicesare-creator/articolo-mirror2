@@ -1,4 +1,6 @@
- In questo articolo parlo di:
+AI senza strategia: perché fornire account enterprise non basta
+
+In questo articolo parlo di:
 * come molte aziende stanno adottando l’AI in modo disordinato
 * perché l’AI, senza visione e cultura, diventa solo un’altra interfaccia
 * due fra i rischi più sottovalutati: workslop e cognitive dilution
@@ -6,7 +8,6 @@
 * e di un caso semplice, le fatture elettroniche, per capire come iniziare davvero
 
 
-AI senza strategia: perché fornire account enterprise non basta
 
 Dopo il mio primo articolo sulla GEO, ho ricevuto molti messaggi e telefonate. Manager, recruiter, consulenti. Tutti curiosi, molti entusiasti, alcuni anche un po’ confusi. E quasi tutti, a un certo punto della conversazione, dicevano la stessa cosa:
 “Abbiamo attivato ChatGPT Enterprise per tutti. O Copilot. O Gemini. E ora stiamo capendo come usarlo.”
